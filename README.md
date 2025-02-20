@@ -22,40 +22,26 @@
 ### Линейный закон:
 
 Входные данные:
-Tzmin=0,5        
-Tsmin=1
-Tzmax=0,8333     
-Tsmax=5
+- Tzmin=0,5        
+- Tsmin=1
+- Tzmax=0,8333     
+- Tsmax=5
 
 Вывод:
 
 ![lt2](https://github.com/WM-admn/QSmodel/blob/main/images/lt2.png)
 
-Входные данные:
-- Tzmin=0,3       
-- Tsmin=1                
-- Tzmax=0,72       
-- Tsmax=3  
-
-Вывод:
-
-![lt2](https://github.com/WM-admn/QSmodel/blob/main/images/lt2.png)
 
 #### Экспоненциальный:
 
 Входные данные:
-λ=1,5	           
-t=2
+- λ=1,5	           
+- t=2
 Вывод:
 
 ![et1](https://github.com/WM-admn/QSmodel/blob/main/images/et1.png)
 
-Входные данные:
-λ=1,1	           
-t=1,8
-Вывод:
 
-![et2](https://github.com/WM-admn/QSmodel/blob/main/images/et2.png)
 
 
 
