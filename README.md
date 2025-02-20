@@ -19,7 +19,7 @@
 
 ### Пример работы программы:
 
-####Линейный закон
+#### Линейный закон
 
 Входные данные:
 Tzmin=0,5        Tsmin=1
@@ -35,9 +35,9 @@ Tzmax=0,72       Tsmax=3
 
 ![lt2](https://github.com/WM-admn/QSmodel/blob/main/images/lt2.png)
 
-<div align="center">
+
 ##### Экспоненциальный
-</div>
+
 
 Входные данные:
 λ=1,5	           
